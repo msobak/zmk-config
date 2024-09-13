@@ -40,7 +40,7 @@
 //                     |      |      |      |        |  |       |      |       |     |
             bindings = <
 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3    &bt BT_SEL 4                 &trans     &trans    &trans    &trans    &trans    &trans  
-&trans  &trans              &trans            &trans            &trans          &trans                       &kp AMPS   &kp CARET &kp MINUS &kp LBRC  &kp RBRC  &kp PIPE
+&trans  &trans              &trans            &trans            &trans          &trans                       &kp AMPS   &kp CARET &kp MINUS &kp LBRC  &kp RBRC  &kp PRCNT
 &trans  &trans              &trans            &trans            &trans          &trans                       &kp BSLH   &kp EQUAL &kp PLUS  &kp LPAR  &kp RPAR  &kp TILDE
 &trans  &ext_power EP_ON    &ext_power EP_OFF &ext_power EP_TOG &trans          &trans    &trans   &trans    &kp DOLLAR &kp UNDER &kp ASTRK &kp LBKT  &kp RBKT  &kp GRAVE
                                               &trans            &trans          &trans    &trans   &kp BSPC  &trans     &trans    &trans
